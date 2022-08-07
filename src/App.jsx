@@ -54,7 +54,7 @@ function App() {
         {characters != null ?(characters.map(character => (
           <ul className="characters" key={character.id}>
             <li className='character' onClick={()=> handleClick(character,Style)} >
-              {character.name}  -  Status: {character.status} - Raza: {character.race}
+              {character.name}  -  Status: {character.status} - Raza: {character.species}
             </li>
             <img ref={Style} className='imageNomVisible ' src={character.image} alt='' />
           </ul>
