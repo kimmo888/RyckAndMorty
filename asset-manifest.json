@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RyckAndMorty/static/css/main.e6c13ad2.css",
+    "main.js": "/RyckAndMorty/static/js/main.dc03007b.js",
+    "index.html": "/RyckAndMorty/index.html",
+    "main.e6c13ad2.css.map": "/RyckAndMorty/static/css/main.e6c13ad2.css.map",
+    "main.dc03007b.js.map": "/RyckAndMorty/static/js/main.dc03007b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dc03007b.js"
+  ]
+}
